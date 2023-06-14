@@ -6,7 +6,7 @@
 - 📫 How to reach me **jesusenoc1234@gmail.com**
 - 💼 Conéctame en [LinkedIn](https://www.linkedin.com/in/enoc-g-martinez-a48587228/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)
 - 📷 Sígueme en [Instagram](enlace_a_tu_perfil_de_instagram) ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)
-- - 🐦 Sígueme en [Twitter](https://img.shields.io/twitter/follow/enoc31797718?logo=twitter&style=for-the-badge) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)
+- 🐦 Sígueme en [Twitter](https://img.shields.io/twitter/follow/enoc31797718?logo=twitter&style=for-the-badge) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)
 
 
 ##The technologies that I handle
@@ -22,6 +22,10 @@
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
 - ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum)
 
+##Bye
+Thanks for visiting my GitHub profile! I hope you have found interesting information about my projects and skills. If you have any questions or want to connect, feel free to contact me through my email or on my social media profiles.
+
+See you soon!
 
 
 
