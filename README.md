@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Enoc</h1>
-<h3 align="center">I am a backend and frontend web developer</h3>
+<h3 align="center">At the moment I work as a backend developer</h3>
 
 <p align="left"> <a href="https://twitter.com/enoc31797718" target="blank"><img src="https://img.shields.io/twitter/follow/enoc31797718?logo=twitter&style=for-the-badge" alt="enoc31797718" /></a> </p>
 
