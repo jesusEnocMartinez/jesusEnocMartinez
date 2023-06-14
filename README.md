@@ -13,6 +13,7 @@
 
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring)
+- ![Spring Security](https://img.shields.io/badge/-Spring%20Security-6DB33F?logo=spring)
 - ![MySQL](https://img.shields.io/badge/-MySQL-blue?logo=mysql)
 - ![Oracle](https://img.shields.io/badge/-Oracle-red?logo=oracle)
 - ![Azure](https://img.shields.io/badge/-Azure-blue?logo=microsoft-azure)
@@ -21,6 +22,8 @@
 - ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin)
 - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular)
 - ![Scrum](https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum)
+- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
+- ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab)
 
 ##Bye
 Thanks for visiting my GitHub profile! I hope you have found interesting information about my projects and skills. If you have any questions or want to connect, feel free to contact me through my email or on my social media profiles.
