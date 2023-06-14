@@ -6,9 +6,10 @@
 - 📫 How to reach me **jesusenoc1234@gmail.com**
 - 💼 Conéctame en [LinkedIn](https://www.linkedin.com/in/enoc-g-martinez-a48587228/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)
 - 📷 Sígueme en [Instagram](enlace_a_tu_perfil_de_instagram) ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)
-- 🐦 Sígueme en [Twitter][(enlace_a_tu_perfil_de_twitter](https://img.shields.io/twitter/follow/enoc31797718?logo=twitter&style=for-the-badge)) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)
+- - 🐦 Sígueme en [Twitter](https://img.shields.io/twitter/follow/enoc31797718?logo=twitter&style=for-the-badge) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)
 
 
+##The technologies that I handle
 
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring)
