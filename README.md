@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Enoc</h1>
 <h3 align="center">At the moment I work as a backend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/enoc31797718" target="blank"><img src="https://img.shields.io/twitter/follow/enoc31797718?logo=twitter&style=for-the-badge" alt="enoc31797718" /></a> </p>
-
 - I currently work as a backend developer at globalsoft, in my spare time I play soccer and love night walks, I am a software engineer during my working life I have learned development techniques such as good practices, design patterns, cloud database security, software quality.
 
-                                                                      - 📫 How to reach me **jesusenoc1234@gmail.com**
+- 📫 How to reach me **jesusenoc1234@gmail.com**
+- 💼 Conéctame en [LinkedIn](https://www.linkedin.com/in/enoc-g-martinez-a48587228/) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)
+- 📷 Sígueme en [Instagram](enlace_a_tu_perfil_de_instagram) ![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram)
+- 🐦 Sígueme en [Twitter][(enlace_a_tu_perfil_de_twitter](https://img.shields.io/twitter/follow/enoc31797718?logo=twitter&style=for-the-badge)) ![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter)
+
+
 
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java)
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-brightgreen?logo=spring)
